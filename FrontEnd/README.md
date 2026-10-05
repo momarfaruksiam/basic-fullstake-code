@@ -16,3 +16,10 @@ git cloning:
 3. npm install
 4. cd BackEnd 
 5. npm install
+
+
+
+netlify websetup:
+
+1. Base directory: FrontEnd
+2. 
