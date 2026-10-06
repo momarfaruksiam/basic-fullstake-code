@@ -9,6 +9,7 @@ origin  https://github.com/oldusername/old-repo.git (push)
 
 
 
+
 git cloning:
 
 1. git clone https://github.com/USERNAME/REPOSITORY.git
@@ -22,4 +23,3 @@ git cloning:
 netlify websetup:
 
 1. Base directory: FrontEnd
-2. 
